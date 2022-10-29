@@ -1,1 +1,1 @@
-Expanded and customized portfolio example project
+Expanded and customized portfolio project
