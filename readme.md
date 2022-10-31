@@ -1,1 +1,1 @@
-Expanded and customized portfolio project
+portfolio project
